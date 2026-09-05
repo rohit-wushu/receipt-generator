@@ -1,0 +1,16 @@
+/config/config.php
+
+# Generated / uploaded content - keep folders, ignore contents
+/storage/pdf/*
+!/storage/pdf/.gitkeep
+/storage/jpg/*
+!/storage/jpg/.gitkeep
+/uploads/logos/*
+!/uploads/logos/.gitkeep
+/uploads/seals/*
+!/uploads/seals/.gitkeep
+/uploads/signatures/*
+!/uploads/signatures/.gitkeep
+
+*.log
+.DS_Store

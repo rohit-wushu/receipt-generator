@@ -1,0 +1,3 @@
+# Generated receipt files are only served through receipts/download.php
+# and receipts/preview.php, never directly.
+Require all denied
