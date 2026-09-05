@@ -1,0 +1,9 @@
+{
+    "name": "goyalbuildcon/receipt-generator",
+    "description": "Receipt Generator",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "dompdf/dompdf": "^3.1"
+    }
+}
